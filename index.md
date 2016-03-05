@@ -1,5 +1,5 @@
 
-<iframe width="100%" height="300" src="https://www.youtube.com/watch?v=OdhUiCxeums?autoplay=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/OdhUiCxeums?autoplay=1" frameborder="0" allowfullscreen></iframe>
 
 ### Get The Kit  
 - [Raspberry Pi 2 Model B](http://www.mcmelectronics.com/content/en-US/raspberry-pi)

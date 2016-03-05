@@ -9,5 +9,4 @@
 - [A WiFi USB Dongle if you need it](http://www.microcenter.com/product/361805/150Mbps_Wireless_N_USB_Adapter)
 - [USB Flash Drive](http://www.microcenter.com/product/281032/16GB_USB_20_Flash_Drive)
 
-You can buy each parts seperately or you can order the whole kit for $150.
 

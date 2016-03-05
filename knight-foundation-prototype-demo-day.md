@@ -22,3 +22,4 @@ The Open Pipe Kit project has a lot of work ahead of us. We won't have funding f
 
 -- R.J. Steinert
 
+[gimmick:Disqus](openpipekit)

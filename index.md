@@ -11,7 +11,3 @@
 
 You can buy each parts seperately or you can order the whole kit for $150.
 
-[buy now](buy.md)
-
-### Configure The Kit
-Use the [Open Pipe Maker](/maker) to configure your kit.

@@ -1,5 +1,4 @@
-
-<li style="position:relative; width: 100px; color: #4caf50;">&nbsp</li>
+# Piper
 
 [Guides]()
 
@@ -22,7 +21,7 @@
   * [Forum posts tagged on Farm Hack]()
 
 [Blog](blog.md)
+[Configure](configure.md)
 
-<li style="position: absolute; right: 65px;"><a href="#index.md#Get_The_Kit">Get the Kit</a></li>
 
-[gimmick:theme (inverse: true)](flatly)
+[gimmick:theme (inverse: false)](flatly)

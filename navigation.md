@@ -1,17 +1,12 @@
-# Piper
+# |r <small>(piper)</small> 
 
-[Guides]()
+[Guides](index.md)
 
-  * # Easy 
-  * [Send a Raspberry Pi's temperature to Google Sheets. No extra sensor required!](send-your-raspberry-pis-temperature-to-google-sheets.md)
-  * [How to build a temperature alarm that emails and text messages ](how-to-build-a-temperature-alarm-that-emails-and-text-messages.md)
-  ----
-  * # Power user 
-  * [Getting started with making pipes on the command line](getting-started-with-making-pipes-on-the-command-line.md)
-  ----
-  * # Developer 
-  * [How to program a new OPK driver](how-to-program-a-new-opk-driver.md)
+[Get the Kit](get-the-kit.md)
 
+[Piper App](configure.md)
+
+[Devices and Databases](devices-and-databases.md)
 
 [Community]()
 
@@ -21,7 +16,5 @@
   * [Forum posts tagged on Farm Hack]()
 
 [Blog](blog.md)
-[Configure](configure.md)
-
 
 [gimmick:theme (inverse: false)](flatly)

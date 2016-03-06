@@ -1,12 +1,17 @@
+# Connect the Internet of Things with Unix pipes.
+>  Do it yourself on the command line or use the Piper App to configure the pipes for you. 
 
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/OdhUiCxeums?autoplay=1" frameborder="0" allowfullscreen></iframe>
+![](images/piper-options-reverse.png)
 
-### Get The Kit  
-- [Raspberry Pi 2 Model B](http://www.mcmelectronics.com/content/en-US/raspberry-pi)
-- [Raspberry Pi Case](http://www.amazon.com/Official-Raspberry-Foundation-Case-Model/dp/B00ZS26ZJA/ref=sr_1_1?ie=UTF8&qid=1444957520&sr=8-1&keywords=Official+raspberry+pi+2+model+b+case)
-- [Micro SD Card](http://goo.gl/xXPZuX) with [Pirateship for Pi](http://openpipekit.github.io/pirate.sh/#!index.md)
-- [USB Power Supply](http://www.microcenter.com/product/441187/Micro-USB_Power_Supply_for_Raspberry_Pi_B_with_Built-in_4ft_Cable_-_2_Amp)
-- [A WiFi USB Dongle if you need it](http://www.microcenter.com/product/361805/150Mbps_Wireless_N_USB_Adapter)
-- [USB Flash Drive](http://www.microcenter.com/product/281032/16GB_USB_20_Flash_Drive)
+## Point and Click Guides  
+* [Send a Raspberry Pi's temperature to Google Sheets. No extra sensor required!](send-your-raspberry-pis-temperature-to-google-sheets.md)
+* [How to build a temperature alarm that emails and text messages ](how-to-build-a-temperature-alarm-that-emails-and-text-messages.md)
+
+## Command Line Guides 
+
+* [Getting started with making pipes on the command line](getting-started-with-making-pipes-on-the-command-line.md)
+
+## Developer Guides 
+* [How to program a new OPK driver](how-to-program-a-new-opk-driver.md)
 
 

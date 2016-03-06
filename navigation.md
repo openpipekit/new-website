@@ -4,9 +4,11 @@
 
 [Get the Kit](get-the-kit.md)
 
-[Piper App](configure.md)
+[Piper App](piper-app.md)
 
 [Devices and Databases](devices-and-databases.md)
+
+[Blog](blog.md)
 
 [Community]()
 
@@ -15,6 +17,5 @@
   * [Research Notes tagged on Public Lab](https://publiclab.org/tag/open-pipe-kit)
   * [Forum posts tagged on Farm Hack]()
 
-[Blog](blog.md)
 
 [gimmick:theme (inverse: false)](flatly)

@@ -1,7 +1,7 @@
-# Open Pipe Kit 
+# Open Pipe Kit
 
 
-[Get started](index.md)
+[Get started](README.md)
 [Guides](guides.md)
 [Devices and Databases](devices-and-databases.md)
 [Piper App](piper-app.md)

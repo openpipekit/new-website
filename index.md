@@ -1,5 +1,5 @@
 # Connect the Internet of Things with Unix pipes.
-> Set up pipes the command line or use the Piper App to configure the pipes for you. 
+> Set up pipes on the command line or use the Piper App to configure the pipes for you. 
 
 <img src=images/piper-options-simple.jpg width=100% style="border: none">
 

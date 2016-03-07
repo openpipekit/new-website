@@ -1,1 +1,1 @@
-<iframe width=100% height=500 src="http://openpipekit.github.org/pipe/index.html">
+<iframe width=100% height=500 src="http://openpipekit.github.io/piper/index.html#configurator">

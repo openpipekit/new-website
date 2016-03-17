@@ -2,5 +2,5 @@
 
 // Use README.md as the index.
 
-window.location="/index.html#!README.md"
+window.location="/new-website/index.html#!README.md"
 </script>
